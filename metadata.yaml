@@ -1,5 +1,5 @@
 _repo: Tsel-Ha-Olam_61024
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Tsel Ha'Olam
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '51225'
     url: http://www.gutenberg.org/2009/agents/51225
     wikipedia: https://en.wikipedia.org/wiki/Mattithiah_ben_Solomon_Delacrut
+covers:
+- cover_type: archival
+  image_path: 61024-h/images/cover.jpg
 creator:
   author:
     agent_name: Gautier, of Metz, active 1245
@@ -33,6 +36,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gautier_de_Metz
     - https://en.wikipedia.org/wiki/Gautier_de_Metz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61024#Tsel-Ha-Olam
 gutenberg_issued: '2019-12-26'
 gutenberg_type: Text
 identifiers:
