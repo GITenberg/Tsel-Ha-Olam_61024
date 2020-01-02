@@ -1,0 +1,49 @@
+_repo: Tsel-Ha-Olam_61024
+_version: 0.0.1
+alternative_title: Tsel Ha'Olam
+contributor:
+  translator:
+    agent_name: Delacrut, Mattathias ben Solomon, active 16th century
+    aliases:
+    - Delacrut, Mattityah ben Solomon
+    - דלקארט, מתתיהו בן שלמה
+    - דלקרט, מתתיה
+    - Dalkrut, Matityah
+    - דלאקרט, מתתיהו בן שלמה
+    gutenberg_agent_id: '51225'
+    url: http://www.gutenberg.org/2009/agents/51225
+    wikipedia: https://en.wikipedia.org/wiki/Mattithiah_ben_Solomon_Delacrut
+creator:
+  author:
+    agent_name: Gautier, of Metz, active 1245
+    aliases:
+    - Gauthier, of Metz
+    - Gossuin, de Metz
+    - גוטייר, ממיץ
+    - Gossouin, de Metz
+    - Gossuin, of Metz
+    - Gautier, de Metz
+    - Metz, Gautier of
+    - גוסואן, ממיץ
+    - Walther, von Metz
+    - Metz, Gossuin of
+    gutenberg_agent_id: '51224'
+    url: http://www.gutenberg.org/2009/agents/51224
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gautier_de_Metz
+    - https://en.wikipedia.org/wiki/Gautier_de_Metz
+description: ''
+gutenberg_issued: '2019-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61024'
+language: he
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encyclopedias and dictionaries -- Early works to 1600'
+- !lcc 'PQ'
+- GITenberg
+title: צל העולם
+url: http://www.gutenberg.org/ebooks/61024
